@@ -1,4 +1,18 @@
-Esse é só o meu perfil, eai
+Sup guys, Sou um dev junior
+
+Linguagens que conheço -
+  C/C++
+  C# (puro e .NET)
+  JavaScript
+  Python
+Banco de dados -
+  PostgresSQL
+  SQL Server
+  MongoDb
+  MySQL
+Atualmente estudando -
+  HTML
+  CSS
 
 <!--
 **CassianoPereiraLeao/CassianoPereiraLeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
