@@ -1,15 +1,15 @@
-Sup guys, Sou um dev junior
-
-Linguagens que conheço -
-  C/C++
-  C# (puro e .NET)
-  JavaScript
-  Python
-Banco de dados -
-  PostgresSQL
-  SQL Server
-  MongoDb
-  MySQL
+# Sup guys, Sou um dev junior
+---
+### Linguagens que conheço
+  - C/C++
+  - C# (puro e .NET)
+  - JavaScript
+  - Python
+Banco de dados
+- PostgresSQL
+- SQL Server
+- MongoDb
+- MySQL
 Atualmente estudando -
   HTML
   CSS
