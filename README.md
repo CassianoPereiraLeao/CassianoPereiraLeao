@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Opa</h1>
+# Sup guys, Sou um dev júnior
 ---
 ## Linguagens que conheço
   - **C/C++**
