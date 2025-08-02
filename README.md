@@ -13,6 +13,11 @@
 ### Atualmente estudando
   - HTML
   - CSS
+### Ferramentas
+- NodeJS (com express e sequelize)
+- ASP.NET (com EF)
+- C/C++ (com SDL3)
+- Python (com robotframework ou pandas)
 
 <!--
 **CassianoPereiraLeao/CassianoPereiraLeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
