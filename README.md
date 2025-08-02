@@ -1,4 +1,4 @@
-<h1>Opa</h1>
+<h1 style="text-align: center;">Opa</h1>
 ---
 ## Linguagens que conheço
   - **C/C++**
