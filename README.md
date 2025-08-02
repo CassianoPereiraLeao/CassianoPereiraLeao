@@ -5,14 +5,14 @@
   - C# (puro e .NET)
   - JavaScript
   - Python
-Banco de dados
+### Banco de dados
 - PostgresSQL
 - SQL Server
 - MongoDb
 - MySQL
-Atualmente estudando -
-  HTML
-  CSS
+### Atualmente estudando
+  - HTML
+  - CSS
 
 <!--
 **CassianoPereiraLeao/CassianoPereiraLeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
