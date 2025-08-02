@@ -1,19 +1,19 @@
 # Sup guys, Sou um dev junior
 ---
-### Linguagens que conheço
+## Linguagens que conheço
   - **C/C++**
   - **C# (puro e .NET)**
   - **JavaScript**
   - **Python**
-### Banco de dados
+## Banco de dados
 - **PostgresSQL**
 - **SQL Server**
 - **MongoDb**
 - **MySQL**
-### Atualmente estudando
+## Atualmente estudando
   - **HTML**
   - **CSS**
-### Ferramentas
+## Ferramentas
 - **NodeJS** (com express e sequelize)
 - **ASP.NET** (com EF)
 - **C/C++** (com SDL3)
