@@ -1,23 +1,23 @@
 # Sup guys, Sou um dev junior
 ---
 ### Linguagens que conheço
-  - *C/C++*
-  - *C# (puro e .NET)*
-  - *JavaScript*
-  - *Python*
+  - **C/C++**
+  - **C# (puro e .NET)**
+  - **JavaScript**
+  - **Python**
 ### Banco de dados
-- PostgresSQL
-- SQL Server
-- MongoDb
-- MySQL
+- **PostgresSQL**
+- **SQL Server**
+- **MongoDb**
+- **MySQL**
 ### Atualmente estudando
-  - HTML
-  - CSS
+  - **HTML**
+  - **CSS**
 ### Ferramentas
-- NodeJS (com express e sequelize)
-- ASP.NET (com EF)
-- C/C++ (com SDL3)
-- Python (com robotframework ou pandas)
+- **NodeJS** (com express e sequelize)
+- **ASP.NET** (com EF)
+- **C/C++** (com SDL3)
+- **Python** (com robotframework ou pandas)
 
 <!--
 **CassianoPereiraLeao/CassianoPereiraLeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
